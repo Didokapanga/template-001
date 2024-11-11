@@ -21,8 +21,8 @@ export default function NavbarComponents() {
                     <Image
                         src="/logo/logo.webp"
                         alt="Logo"
-                        width={1000}
-                        height={1000}
+                        width={100}
+                        height={100}
                         className="w-28"
                     />
                 </Link>
