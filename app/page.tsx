@@ -60,7 +60,7 @@ export default function Home() {
             </span>
             <span className="flex flex-col gap-4 mb-6">
               <div className="w-10 p-2 bg-[#344bdc] text-center flex items-center justify-center rounded-lg text-[#ffffff] text-2xl"><RiCalendarTodoFill /></div>
-              <h3>Année d'expérience</h3>
+              <h3>Année d&apos;expérience</h3>
               <p className="text-sm font-light">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Autem, hic inventore dolores suscipit natus ad.</p>
             </span>
           </div>
