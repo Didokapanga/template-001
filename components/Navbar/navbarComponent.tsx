@@ -32,7 +32,7 @@ export default function NavbarComponents() {
                     <Link href="/" className="hover:text-blue-300">Services</Link>
                     <Link href="/" className="hover:text-blue-300">Produits</Link>
                     <Link href="/" className="hover:text-blue-300">Nos partenaires</Link>
-                    <Link href="/about" className="hover:text-blue-300"><a href="/about" >Qui sommes-nous ?</a></Link>
+                    <Link href="/about" className="hover:text-blue-300">Qui sommes-nous ?</Link>
                     <Link href="/" className="hover:text-blue-300">Nous contacter</Link>
                 </div>
 
