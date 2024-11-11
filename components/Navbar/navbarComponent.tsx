@@ -17,7 +17,7 @@ export default function NavbarComponents() {
         <nav className="w-full bg-[#35363b] text-white">
             <div className="container mx-auto px-4 py-4 flex items-center justify-between">
                 {/* Logo */}
-                <a href="/" className="text-xl font-bold">
+                <Link href="/" className="text-xl font-bold">
                     <Image
                         src={"/logo/logo.webp"}
                         alt="Logo"
@@ -25,7 +25,7 @@ export default function NavbarComponents() {
                         height={1000}
                         className="w-28"
                     />
-                </a>
+                </Link>
 
                 {/* Menu desktop */}
                 <div className="hidden md:flex space-x-8 font-montserrat lg:text-base text-sm">
