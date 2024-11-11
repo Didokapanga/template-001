@@ -19,7 +19,7 @@ export default function NavbarComponents() {
                 {/* Logo */}
                 <Link href="/" className="text-xl font-bold">
                     <Image
-                        src={"/logo/logo.webp"}
+                        src="/logo/logo.webp"
                         alt="Logo"
                         width={1000}
                         height={1000}
