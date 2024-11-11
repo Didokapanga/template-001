@@ -89,7 +89,7 @@ export default function Home() {
           <p>Caractéristiques de services</p>
           <div className="w-full flex justify-between lg:flex-row flex-col lg:gap-16 gap-6">
             <div className="lg:w-1/2 w-full">
-              <h2 className="lg:text-4xl text-2xl">Des solutions impressionnantes avec l'aide de la technologie</h2>
+              <h2 className="lg:text-4xl text-2xl">Des solutions impressionnantes avec l&apos;aide de la technologie</h2>
             </div>
             <div className="lg:w-1/2 w-full text-left">
               <p className="text-lg font-light">
