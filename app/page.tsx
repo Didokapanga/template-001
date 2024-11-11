@@ -23,7 +23,9 @@ export default function Home() {
           <h1 className="sm:text-6xl text-4xl font-bold mt-2 mb-8">Procurez-vous un outils qui favorisera l&apos;exploitation des vos information</h1>
           <span className="text-lg font-light">Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque natus
             corrupti tempora sint repudiandae praesentium voluptates sequi, quibusdam molestias non?</span>
-          <a href="" className=" sm:w-1/2 w-full text-center text-[#ffffff] hover:text-[#c0adad] rounded-lg sm:p-3 p-2 mt-4 bg-[#344bdc]">Reservez-vous une séance de consulting</a>
+          <a href="" className=" sm:w-1/2 w-full text-center text-[#ffffff] hover:text-[#c0adad] rounded-lg sm:p-3 p-2 mt-4 bg-[#344bdc]">
+            Reservez-vous une séance de consulting
+          </a>
         </div>
         <div className="lg:w-1/2 w-full">
           <Image
@@ -101,7 +103,7 @@ export default function Home() {
           <div className="w-full flex justify-around items-center lg:flex-row flex-col gap-4 mt-10">
             <div className="bg-[#5a14c3] w-full rounded-lg p-5 flex flex-col gap-4">
               <div className="w-10 p-2 bg-[#ece7ff] text-center flex items-center justify-center rounded-3xl text-[#333] text-2xl"><TbDatabaseSearch /></div>
-              <h3 className="text-[#ece7ff]">Conception de sytème d'information</h3>
+              <h3 className="text-[#ece7ff]">Conception de sytème d&apos;information</h3>
               <p className="text-[#ece7ff]">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tenetur ratione tempora, ullam assumenda atque minima.</p>
             </div>
             <div className="bg-[#ece7ff] w-full rounded-lg p-5 flex flex-col gap-4">
@@ -153,7 +155,7 @@ export default function Home() {
                 <div className="xl:flex hidden gap-8 font-semibold">
                   <span>Logiciel</span>
                   <span>Enseignement</span>
-                  <span>Correction exament d'état</span>
+                  <span>Correction exament d&apos;état</span>
                 </div>
                 <a href="" className="hover:text-zinc-600 w-1/2">Voir le projet</a>
               </div>
