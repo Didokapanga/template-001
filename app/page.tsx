@@ -18,8 +18,8 @@ export default function Home() {
       <div className="absolute inset-0 -z-10 h-full w-full bg-white bg-[radial-gradient(#e5e7eb_1px,transparent_1px)] [background-size:16px_16px]"></div>
       <div className="container overflow-hidden snap-none w-full mx-auto px-4 py-4 flex items-center justify-between lg:flex-row flex-col mt-10 md:mt-20 gap-11">
         <div className="lg:w-1/2 w-full flex flex-col justify-between">
-          {/* <p className="text-[#344bdc] font-semibold">Consommons le génie congolais</p> */}
-          <p>Procurez-vous un outil qui favorisera l&apos;exploitation de vos informations.</p>
+          {/* <p>Procurez-vous un outil qui favorisera l&apos;exploitation de vos informations.</p> */}
+          <p className="text-[#344bdc] font-semibold">Consommons le génie congolais</p>
           <h1 className="sm:text-6xl text-4xl font-bold mt-2 mb-8">Procurez-vous un outils qui favorisera l&apos;exploitation des vos information</h1>
           <span className="text-lg font-light">Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque natus
             corrupti tempora sint repudiandae praesentium voluptates sequi, quibusdam molestias non?</span>

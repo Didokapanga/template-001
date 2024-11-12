@@ -18,14 +18,13 @@ export default function NavbarComponents() {
             <div className="container mx-auto px-4 py-4 flex items-center justify-between">
                 {/* Logo */}
                 <Link href="/" className="text-xl font-bold">
-                    {/* <Image
-                        src="/logo/logo.webp"
+                    <Image
+                        src={"/logo/logo.webp"}
                         alt="Logo"
                         width={100}
                         height={100}
                         className="w-28"
-                    /> */}
-                    LOGO
+                    />
                 </Link>
 
                 {/* Menu desktop */}
