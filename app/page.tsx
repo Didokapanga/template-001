@@ -271,7 +271,7 @@ export default function Home() {
               </div>
             </div>
             <div className=" w-full flex items-center justify-center">
-              <div className="lg:w-1/2 w-full justify-center items-center text-center mt-8">
+              <div className="xl:w-4/5 w-full justify-center items-center text-center mt-8">
                 <ContactForm />
               </div>
             </div>
